@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "chrome-devtools-client"
-version = "0.5-1"
+version = "0.6-1"
 -- LuaDist source
 source = {
-  tag = "0.5-1",
+  tag = "0.6-1",
   url = "git://github.com/LuaDist-testing/chrome-devtools-client.git"
 }
 -- Original source
@@ -20,7 +20,8 @@ dependencies = {
   "lua >= 5.1",
   "lua-cjson",
   "http",
-  "luasocket"
+  "luasocket",
+  "lrexlib-oniguruma"
 }
 build = {
    type = "builtin",
