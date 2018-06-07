@@ -1,8 +1,16 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "chrome-devtools-client"
 version = "0.8-1"
+-- LuaDist source
 source = {
-   url = "git://github.com/clear-code/lua-chrome-devtools-client"
+  tag = "0.8-1",
+  url = "git://github.com/LuaDist-testing/chrome-devtools-client.git"
 }
+-- Original source
+-- source = {
+--    url = "git://github.com/clear-code/lua-chrome-devtools-client"
+-- }
 description = {
    homepage = "https://github.com/clear-code/lua-chrome-devtools-client",
    maintainer = "Yasuhiro Horimoto <horimoto@clear-code.com>",
