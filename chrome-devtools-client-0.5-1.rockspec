@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "chrome-devtools-client"
-version = "0.4-1"
+version = "0.5-1"
 -- LuaDist source
 source = {
-  tag = "0.4-1",
+  tag = "0.5-1",
   url = "git://github.com/LuaDist-testing/chrome-devtools-client.git"
 }
 -- Original source
